@@ -1,0 +1,22 @@
+---
+title: "Distribuições de Probabilidade"
+output: html_notebook
+---
+
+## Triangular
+
+Para a triangular, é necessário fazer `install.packages("extraDistr")`. Os resultados são obtidos fazendo-se
+
+```{r echo=TRUE}
+library(extraDistr)
+rtriang(1,a = 3, b = 8)
+```
+
+## Exponencial
+
+Para a exponencial, não é necessário instalar nenhum pacote. Os resultados são obtidos fazendo-se
+
+```{r echo=TRUE}
+library(extraDistr)
+rexp(1)
+```
