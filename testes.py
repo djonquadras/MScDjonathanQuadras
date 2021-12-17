@@ -1,3 +1,2 @@
-print("oi")
-for i in range(11):
-    print(i**2)
+street_name = "Abbey Road"
+print(street_name[4] + street_name[7])
