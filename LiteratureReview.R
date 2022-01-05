@@ -14,12 +14,12 @@ library(openxlsx)
 
 # Scopus
 
-M1 <- bibliometrix::convert2df("/home/djonquadras/Artigos/scopus.bib",
+M1 <- bibliometrix::convert2df("Data/scopus.bib",
                                dbsource = "scopus", format = "bibtex")
 
 # WoS
 
-M2 <- bibliometrix::convert2df("/home/djonquadras/Artigos/savedrecs.bib",
+M2 <- bibliometrix::convert2df("Data/savedrecs.bib",
                                dbsource = "wos", format = "bibtex")
 
 # Unir e remover duplicatas
@@ -27,8 +27,8 @@ M2 <- bibliometrix::convert2df("/home/djonquadras/Artigos/savedrecs.bib",
 M <- bibliometrix::mergeDbSources(M1, M2, remove.duplicated = TRUE)
 M <- M[M[["AU"]] != "NA N",]
 
-file.remove("AgriChain4.0/Base_Junta.xlsx")
-write.xlsx(M, "AgriChain4.0/Base_Junta.xlsx")
+file.remove("AgriChain40.xlsx")
+write.xlsx(M, "AgriChain40.xlsx")
 
 
 
