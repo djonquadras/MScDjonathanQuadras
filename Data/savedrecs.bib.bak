@@ -1258,6 +1258,130 @@ Unique-ID = {{WOS:000440706600003}},
 DA = {{2022-01-05}},
 }
 
+@article{ WOS:000709420100002,
+Author = {Ngandee, Sumanya and Taparugssanagorn, Attaphongse and Anutariya,
+   Chutiporn and Kuwornu, John K. M.},
+Title = {{Assessment of rice yield prediction models based on big data analytics
+   for better supply chain decision-making in Thailand}},
+Journal = {{INTERNATIONAL JOURNAL OF VALUE CHAIN MANAGEMENT}},
+Year = {{2021}},
+Volume = {{12}},
+Number = {{3}},
+Pages = {{221-240}},
+Abstract = {{This study examined rice yield prediction models for the main type of
+   in-season rice cultivated in Thailand. Models were generated using the
+   machine learning (ML) algorithms: generalised linear model (GLM),
+   feed-forward neural network (FFNN), support vector machine (SVM), and
+   random forest (RF). The models were evaluated using mean absolute
+   percentage error (MAPE), root mean square error (RMSE), and R-2
+   statistic. The results show that the FFNN, which is a deep neural
+   network outperforms the other models. In addition, the FFNN can
+   simultaneously account for complex nonlinear relationships in
+   high-dimensional datasets. While the Big-O complexity and the execution
+   runtime of the FFNN exceed the other models, its execution of
+   predictions takes the least execution runtime. The practical implication
+   of this study is to improve the quality of agricultural information
+   dissemination services and the general public for the development of
+   Thailand's agricultural sector, rice supply chains and the economy as a
+   whole.}},
+Publisher = {{INDERSCIENCE ENTERPRISES LTD}},
+Address = {{WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND}},
+Type = {{Article}},
+Language = {{English}},
+Affiliation = {{Kuwornu, JKM (Corresponding Author), Asian Inst Technol AIT, Sch Environm Resources \& Dev SERD, Dept Food Agr \& Bioresources, Klongluang 12120, Pathumthani, Thailand.
+   Kuwornu, JKM (Corresponding Author), Univ Energy \& Nat Resources, Dept Agr Econ Agribusiness \& Extens, POB 214, Sunyani, Ghana.
+   Ngandee, Sumanya; Taparugssanagorn, Attaphongse; Anutariya, Chutiporn, Asian Inst Technol, Sch Engn \& Technol, Dept Informat \& Commun Technol, 58 Moo 9,Km 42,Paholyothin Highway, Klongluang 12120, PathumThani, Thailand.
+   Kuwornu, John K. M., Asian Inst Technol AIT, Sch Environm Resources \& Dev SERD, Dept Food Agr \& Bioresources, Klongluang 12120, Pathumthani, Thailand.
+   Kuwornu, John K. M., Univ Energy \& Nat Resources, Dept Agr Econ Agribusiness \& Extens, POB 214, Sunyani, Ghana.}},
+DOI = {{10.1504/IJVCM.2021.118289}},
+ISSN = {{1741-5357}},
+EISSN = {{1741-5365}},
+Keywords = {{precision agriculture; crop yield prediction; forecasting; big data
+   analytics; Thailand}},
+Keywords-Plus = {{PRECISION AGRICULTURE; MACHINE; FARMERS; RADAR}},
+Research-Areas = {{Business \& Economics}},
+Web-of-Science-Categories  = {{Management}},
+Author-Email = {{st118397@ait.asia
+   attaphongset@ait.asia
+   chutiporn@ait.ac.th
+   jkuwornu@gmail.com}},
+Cited-References = {{Abhishek K, 2012, PROC TECH, V4, P311, DOI 10.1016/j.protcy.2012.05.047.
+   Ahamed ATMS, 2015, 2015 16TH IEEE/ACIS INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING, ARTIFICIAL INTELLIGENCE, NETWORKING AND PARALLEL/DISTRIBUTED COMPUTING (SNPD), P107.
+   Aubert BA, 2012, DECIS SUPPORT SYST, V54, P510, DOI 10.1016/j.dss.2012.07.002.
+   Awad MM, 2019, AGRICULTURE-BASEL, V9, DOI 10.3390/agriculture9030054.
+   Barrett B, 2014, REMOTE SENS ENVIRON, V152, P109, DOI 10.1016/j.rse.2014.05.018.
+   Bendre MR, 2015, 2015 1ST INTERNATIONAL CONFERENCE ON NEXT GENERATION COMPUTING TECHNOLOGIES (NGCT), P744, DOI 10.1109/NGCT.2015.7375220.
+   Bendre M.R., 2016, P INT C INF COMM TEC, P165, DOI DOI 10.1007/978-981-10-0767-5\_19.
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324.
+   Camps-Valls G, 2003, LECT NOTES COMPUT SC, V2652, P134.
+   Charoensawan P, 2018, INT JOINT CONF COMP, P158.
+   Chen F.-C., 1990, IEEE Control Systems Magazine, V10, P44, DOI 10.1109/37.55123.
+   De Mauro A, 2015, AIP CONF PROC, V1644, P97, DOI 10.1063/1.4907823.
+   Faraway J.J., 2010, INT ENCY ED, P178.
+   Food and Agriculture Organization (FAO) of the United Nation (UN), 2009, FEED WORLD 2050.
+   Frelat R, 2016, P NATL ACAD SCI USA, V113, P458, DOI 10.1073/pnas.1518384112.
+   Fu YG, 2019, IEEE ACCESS, V7, P15310, DOI 10.1109/ACCESS.2019.2895327.
+   Gandhi N, 2017, 2017 IEEE TECHNOLOGICAL INNOVATIONS IN ICT FOR AGRICULTURE AND RURAL DEVELOPMENT (TIAR), P116, DOI 10.1109/TIAR.2017.8273697.
+   Gandhi N, 2016, PROCEEDINGS OF THE 2016 2ND INTERNATIONAL CONFERENCE ON CONTEMPORARY COMPUTING AND INFORMATICS (IC3I), P1, DOI 10.1109/IC3I.2016.7917925.
+   Gandomi A, 2015, INT J INFORM MANAGE, V35, P137, DOI 10.1016/j.ijinfomgt.2014.10.007.
+   Gartner, 2011, WHAT IS BIG DAT GART.
+   Gebbers R, 2010, SCIENCE, V327, P828, DOI 10.1126/science.1183899.
+   Jain N., 2017, INT RES J ENG TECHNO, V4, P1530.
+   Jayagopal P., 2019, WALAILAK J SCI TECHN, V16, P55, DOI {[}10.48048/wjst.2019.3620, DOI 10.48048/WJST.2019.3620].
+   Kamilaris A, 2017, COMPUT ELECTRON AGR, V143, P23, DOI 10.1016/j.compag.2017.09.037.
+   Kamilaris A, 2016, 2016 IEEE 3RD WORLD FORUM ON INTERNET OF THINGS (WF-IOT), P442, DOI 10.1109/WF-IoT.2016.7845467.
+   Khan N, 2014, SCI WORLD J, DOI 10.1155/2014/712826.
+   Kim MK, 2017, INFORM DEV, V33, P257, DOI 10.1177/0266666916652671.
+   Krishnan K, 2013, DATA WAREHOUSING IN THE AGE OF BIG DATA, P1.
+   Lezoche M, 2020, COMPUT IND, V117, DOI 10.1016/j.compind.2020.103187.
+   Lin HC, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8060529.
+   Liu JX, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9050770.
+   Math R, 2018, BIG DATA ANAL, P211.
+   McCullagh P., 2018, GEN LINEAR MODELS.
+   Mucherino A., 2009, OPERATIONAL RES, V9, P121, DOI {[}10.1007/s12351-009-0054-6, DOI 10.1007/S12351-009-0054-6].
+   Mukherjee S, 2016, INT J ADV RES COMPUT, V5.
+   Na-udom A., 2017, J TELECOMMUNICATION, V9, P95.
+   Namitha K, 2015, PROCEEDING OF THE THIRD INTERNATIONAL SYMPOSIUM ON WOMEN IN COMPUTING AND INFORMATICS (WCI-2015), P492, DOI 10.1145/2791405.2791468.
+   Nita S.L., 2015, SCI B NAV ACAD, V19, P466.
+   Ok AO, 2012, EUR J REMOTE SENS, V45, P421, DOI 10.5721/EuJRS20124535.
+   Pande J., 2008, P 2 NAT C INDIACOM C.
+   Pang H, 2013, GENET EPIDEMIOL, V37, P276, DOI 10.1002/gepi.21721.
+   Pantazi XE, 2016, COMPUT ELECTRON AGR, V121, P57, DOI 10.1016/j.compag.2015.11.018.
+   Parvathi S.B.K.D.R, 2017, JARDCS, V9, P546.
+   Promme P, 2017, DEV PRACT, V27, P865, DOI 10.1080/09614524.2017.1340930.
+   Rajak RK, 2017, INT RES J ENG TECHNO, V4, P950.
+   Ray DK, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0066428.
+   Reddy PC, 2017, PROCEEDINGS OF THE 2017 IEEE SECOND INTERNATIONAL CONFERENCE ON ELECTRICAL, COMPUTER AND COMMUNICATION TECHNOLOGIES (ICECCT).
+   RUser4512, 2018, COMPUTATIONAL COMPLE.
+   Ryu GA, 2020, AGRICULTURE-BASEL, V10, DOI 10.3390/agriculture10010021.
+   Sathapatyanon J, 2019, INT J VALUE CHAIN MA, V10, P53, DOI 10.1504/IJVCM.2019.10016702.
+   Savla A, 2015, 2015 INTERNATIONAL CONFERENCE ON INNOVATIONS IN INFORMATION, EMBEDDED AND COMMUNICATION SYSTEMS (ICIIECS).
+   Shah P, 2016, 2016 23RD IEEE INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING WORKSHOPS (HIPCW 2016), P43, DOI {[}10.1109/HiPCW.2016.015, 10.1109/HiPCW.2016.11].
+   Sharma G, 2011, INT CONF ACOUST SPEE, P529, DOI 10.1109/smartgridcomm.2011.6102379.
+   Shastry A., 2017, INT J SOFT COMPUTING, P96.
+   Singh C.D., 2014, 2014 INT C COMP COMM, DOI {[}DOI 10.1109/ICCCI.2014.6921718, 10.1109/ICCCI.2014.6921718].
+   Singhapreecha C, 2014, EC AGR THAILAND.
+   Soni P, 2016, AMA-AGR MECH ASIA AF, V47, P58.
+   Sujatha R., 2016, 2016 INT C COMP TECH, P1, DOI DOI 10.1109/ICCTIDE.2016.7725357.
+   Suphannachart W., 2017, ADV MANAGEMENT APPL, V7, P89.
+   Surianarayanan C., 2019, INT J COMPUT ENG TEC, V10, P110, DOI {[}10.34218/IJCET.10.3.2019.013, DOI 10.34218/IJCET.10.3.2019.013].
+   Tantalaki N, 2019, J AGRIC FOOD INF, V20, P344, DOI 10.1080/10496505.2019.1638264.
+   The Pennsylvania State University, 2017, INTRO GEN LINEAR MOD.
+   United Nations (UN), 2009, DEP EC SOC AFF POP D.
+   Wigan MR, 2013, COMPUTER, V46, P46, DOI 10.1109/MC.2013.195.
+   Xu ZX, 2002, HYDROL PROCESS, V16, P2423, DOI 10.1002/hyp.1013.
+   Yu PS, 2017, J HYDROL, V552, P92, DOI 10.1016/j.jhydrol.2017.06.020.
+   Zingade D.S., 2017, INT J ADV ENG RES DE, V4, P1.}},
+Number-of-Cited-References = {{67}},
+Times-Cited = {{0}},
+Usage-Count-Last-180-days = {{0}},
+Usage-Count-Since-2013 = {{0}},
+Journal-ISO = {{Int. J. Chain Manag.}},
+Doc-Delivery-Number = {{WK0JB}},
+Unique-ID = {{WOS:000709420100002}},
+DA = {{2022-01-05}},
+}
 
 @article{ WOS:000668004300001,
 Author = {Sader, Sami and Husti, Istvan and Daroczi, Miklos},
