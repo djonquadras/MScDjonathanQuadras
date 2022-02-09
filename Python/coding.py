@@ -1,6 +1,5 @@
-import random
-
-coisas = ["tapete", "colher", "pneu", "morcego"]
-print(coisas)
-random.shuffle(coisas)
-print(coisas)
+def oi(oi1, oi2, oi3):
+    """Oi cara de boi"""
+    print("oiii")
+    
+oi()    
